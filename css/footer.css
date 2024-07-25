@@ -1,0 +1,12 @@
+.site-footer-bottom {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  margin-left: 35%;
+  font-size: 1.5rem;
+}
+
+.col-lg-2 col-md-3 col-3 mt-lg-4 ms-auto {
+  display: flex;
+  color: azure;
+}
