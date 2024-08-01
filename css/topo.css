@@ -1,12 +1,9 @@
-/** Configuração da DIV principal do topo da página, com logo, titulo e menu 
-**************************************************************************************/
-
 #header {
   /** Preenche toda a largura da página **/
   width: 100%;
 
   /** Posiciona o elemento em relação ao corpo da página **/
-  height: 37px;
+  height: 137px;
 
   /** Margem interna **/
   padding-top: 10px;
@@ -17,7 +14,7 @@
 
 #logo {
   /** largura capaz de armazenar logo e título **/
-  width: 485px;
+  width: 525px;
 
   /** Altura capaz de armazenar logo e título **/
   height: 100px;
@@ -35,8 +32,8 @@
 
 #logoImg {
   /** Tamanho **/
-  width: 145px;
-  height: 80px;
+  width: 80px;
+  height: 100px;
 
   /** Posição do logo **/
   float: left;
@@ -51,7 +48,7 @@
   color: rgb(249, 249, 249);
 
   /** Posicionamento - tamanho da linha **/
-  line-height: 101px;
+  line-height: 100px;
 
   /** Sem margem**/
   margin: 0;
